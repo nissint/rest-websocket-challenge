@@ -1,8 +1,8 @@
 
-<header style="font-weight:bold">
+<h3>
 	A challenge to create a web page that sends a string to a back end using a RESTful interface
 	then prints the string to the page with the string coming through a Websocket.
-</header>
+</h3>
 
 <h4>Developed and Tested with:</h4>
 <ul>
