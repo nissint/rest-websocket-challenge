@@ -1,8 +1,12 @@
 
-<h3>
+<h3>Rest-Websocket Challenge</h3>
+
+<h4>Synopsys</h4>
+
+<p>
 	A challenge to create a web page that sends a string to a back end using a RESTful interface
 	then prints the string to the page with the string coming through a Websocket.
-</h3>
+</p>
 
 <h4>Developed and Tested with:</h4>
 <ul>
