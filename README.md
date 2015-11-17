@@ -1,10 +1,10 @@
 
-A challenge to create a web page that sends a string to a back end using a RESTful interface
-then prints the string to the page with the string coming through a Websocket.
+<header style="font-weight:bold">
+	A challenge to create a web page that sends a string to a back end using a RESTful interface
+	then prints the string to the page with the string coming through a Websocket.
+</header>
 
-This implementation will be using Java and AngularJS.
-
-Developed and Tested with:
+<h4>Developed and Tested with:</h4>
 <ul>
 	<li>Linux 2.6.32-504.16.2.el6.x86_64</li>
 	<li>CentOS 6.6 Release</li>
@@ -13,7 +13,7 @@ Developed and Tested with:
 	<li>Tomcat 8.0.23</li>
 </ul>
 
-Java Dependencies:
+<h4>Java Dependencies:</h4>
 <ul>
 	<li>org.springframework:spring-core:jar:4.0.6.RELEASE:compile</li>
 	<li>org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.12:compile</li>
@@ -54,7 +54,7 @@ Java Dependencies:
 	<li>javax.ws.rs:javax.ws.rs-api:jar:2.0.1:compile</li>
 </ul>
 
-Javascript Dependencies:
+<h4>Javascript Dependencies:</h4>
 <ul>
 	<li>AngularJS v1.4.7</li>
 </ul>
