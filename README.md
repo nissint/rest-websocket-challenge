@@ -8,6 +8,12 @@
 	then prints the string to the page with the string coming through a Websocket.
 </p>
 
+<p>The task is to develop a web page with a button and a text box.  First, the user inputs a string into the text box and then clicks the button.</p>
+<p>The button has a javascript handler set that sends the string to the backend app which takes the string and sends it back to the frontend through a websocket</p>
+<p>The web page has a handler associated to the websocket and when it receives the string, it is printed put dynamically under the text box</p>
+<p>The choice of backend framework to create RESTful endpoints and websockets is up to you; as it the choice of frontend framework.</p>
+<p>Good Luck!</p>
+	
 <h4>Developed and Tested with:</h4>
 <ul>
 	<li>Linux 2.6.32-504.16.2.el6.x86_64</li>
